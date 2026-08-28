@@ -2,4 +2,5 @@
 name = input("Enter your name")
 surname = input("Enter your surname")
 
-print("Your details: ",name+,"+surname)
+print("Your details: ",name+" "+surname)
+print("--")
